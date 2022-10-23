@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wrn6494
 - 👀 I’m interested in kvarshows,kdrama, cooking, business
 - 🌱 I’m currently learning Power BI, SQL,Python
-- 📫 How to reach me ...
+- 📫 How to reach me: email me at thalassawren@gmail.com
 
 <!---
 wrn6494/wrn6494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
